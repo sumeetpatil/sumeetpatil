@@ -2,7 +2,7 @@
 
 ### About me
 
-- 💼 Product Security Specialist Engineer at [SAP Labs](http://sap.com/)
+- 💼 Product Security Specialist at [SAP Labs](http://sap.com/)
 - 💬 Ask me about anything [here](https://github.com/sumeetpatil/sumeetpatil/issues)
 
 <center>
