@@ -1,6 +1,6 @@
 # Sumeet's profile 👋
 
-## About me**
+### About me
 
 - 💼 Product Security Specialist Engineer at [SAP Labs](http://sap.com/)
 - 💬 Ask me about anything [here](https://github.com/sumeetpatil/sumeetpatil/issues)
