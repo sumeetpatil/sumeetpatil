@@ -1,4 +1,4 @@
-# Sumeet's profile 👋
+# Sumeet's profile
 
 ### About me
 
