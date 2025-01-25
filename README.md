@@ -1,8 +1,8 @@
 # Sumeet's profile
 
 ### About me
-
-- 💼 Product Security Senior Specialist at [SAP Labs](http://sap.com/)
+- Founder at Arvat AI
+- 💼 Ex [SAP](http://sap.com/)
 - 💬 Ask me about anything [here](https://github.com/sumeetpatil/sumeetpatil/issues)
 
 <center>
