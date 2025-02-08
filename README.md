@@ -1,7 +1,7 @@
 # Sumeet's profile
 
 ### About me
-- Founder at Arvat AI
+- Founder at [Arvat AI](http://arvat.ai/)
 - 💼 Ex [SAP](http://sap.com/)
 - 💬 Ask me about anything [here](https://github.com/sumeetpatil/sumeetpatil/issues)
 
